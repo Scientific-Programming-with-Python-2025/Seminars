@@ -8,7 +8,7 @@ Instructions for setting up the environment and submitting homework can be found
 ## 📅 Schedule
 | Week | Seminar | Homework | Deadline |
 |------|---------|----------|----------|
-| 0    | Set Up | https://classroom.github.com/a/qRzz45H6 | September 10, 23:59 |
+| 0    | Setup | https://classroom.github.com/a/qRzz45H6 | September 10, 23:59 |
 | 1    | Foundations-I | https://classroom.github.com/a/zFmSc9jC | September 15, 23:59 |
 
 ## 📂 Structure
