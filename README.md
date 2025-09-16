@@ -19,7 +19,7 @@ Instructions for setting up the environment and submitting homework can be found
 | 0    | Setup | ⸺ | ⸺ |
 | 1    | Foundations-I | ⸺ | ⸺ |
 | 2    | Foundations-II | ⸺ | ⸺ |
-| 3    | Data Structures-I | ⸺ | September 17, 23:59 |
+| 3    | Data Structures-I | https://classroom.github.com/a/mMvfBX_i | September 17, 23:59 |
 
 ## 📂 Structure
 - `exercises/` → Exercises with warm-up, seminar, and assignment problems
