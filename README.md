@@ -5,15 +5,25 @@ This repository contains seminar materials, example notebooks, and homework link
 ## 📖 Setup
 Instructions for setting up the environment and submitting homework can be found in [SETUP.md](SETUP.md).
 
-## 📅 Schedule
+## 📅 Assignments
 | Week | Seminar | Homework | Deadline |
 |------|---------|----------|----------|
-| 0    | Setup | https://classroom.github.com/a/qRzz45H6 | September 10, 23:59 |
-| 1    | Foundations-I | https://classroom.github.com/a/zFmSc9jC | September 15, 23:59 |
+| 0    | Setup | https://classroom.github.com/a/qRzz45H6 | ⸺ |
+| 1    | Foundations-I | ⸺ | ⸺ |
+| 2    | Foundations-II | ⸺ | ⸺ |
+| 3    | Data Structures-I | ⸺ | September 23, 15:30 |
+
+## 📅 Seminars
+| Week | Seminar | Homework | Deadline |
+|------|---------|----------|----------|
+| 0    | Setup | ⸺ | ⸺ |
+| 1    | Foundations-I | ⸺ | ⸺ |
+| 2    | Foundations-II | ⸺ | ⸺ |
+| 3    | Data Structures-I | ⸺ | September 17, 23:59 |
 
 ## 📂 Structure
-- `notebooks/` → Jupyter notebooks with seminar problems & solutions  
-- `slides/` → Slides for each seminar
+- `exercises/` → Exercises with warm-up, seminar, and assignment problems
+- `slides/` → Slides for seminars
 
 ## 📜 License
 This project is licensed under the [GPL-3.0 License](LICENSE).
