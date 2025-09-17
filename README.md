@@ -11,7 +11,7 @@ Instructions for setting up the environment and submitting homework can be found
 | 0    | Setup | https://classroom.github.com/a/qRzz45H6 | ⸺ |
 | 1    | Foundations-I | ⸺ | ⸺ |
 | 2    | Foundations-II | ⸺ | ⸺ |
-| 3    | Data Structures-I | ⸺ | September 23, 15:30 |
+| 3    | Data Structures-I | https://classroom.github.com/a/lSgXRTjB | September 23, 15:30 |
 
 ## 📅 Seminars
 | Week | Seminar | Homework | Deadline |
