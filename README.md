@@ -22,6 +22,7 @@ Instructions for setting up the environment and submitting homework can be found
 | 2    | Foundations-II | ⸺ | ⸺ |
 | 3    | Data Structures-I | https://classroom.github.com/a/mMvfBX_i | September 17, 23:59 |
 | 4    | Foundations-III | https://classroom.github.com/a/WQVJrN88 | September 24, 23:59 |
+| 4    | OOP-I | https://classroom.github.com/a/OxSIldCQ | October 1, 23:59 |
 
 ## 📂 Structure
 - `exercises/` → Exercises with warm-up, seminar, and assignment problems
