@@ -5,7 +5,7 @@ This repository contains seminar materials, example notebooks, and homework link
 ## 📖 Setup
 Instructions for setting up the environment and submitting homework can be found in [SETUP.md](SETUP.md).
 
-## 📅 Assignments
+## 📅 Homeworks
 | Week | Seminar | Homework | Deadline |
 |------|---------|----------|----------|
 | 0    | Setup | https://classroom.github.com/a/qRzz45H6 | ⸺ |
