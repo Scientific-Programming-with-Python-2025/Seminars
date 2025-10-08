@@ -14,6 +14,7 @@ Instructions for setting up the environment and submitting homework can be found
 | 3    | Data Structures-I | https://classroom.github.com/a/lSgXRTjB | September 23, 15:30 |
 | 4    | Foundations-III | https://classroom.github.com/a/iQsE3dhY | September 30, 15:30 |
 | 5    | OOP-I | https://classroom.github.com/a/eu77_j2- | October 7, 15:30 |
+| 6    | Data Structures-II | https://classroom.github.com/a/LWsP1fRQ | October 14, 15:30 |
 
 ## 📅 Seminars
 | Week | Seminar | Homework | Deadline |
@@ -24,6 +25,7 @@ Instructions for setting up the environment and submitting homework can be found
 | 3    | Data Structures-I | https://classroom.github.com/a/mMvfBX_i | September 17, 23:59 |
 | 4    | Foundations-III | https://classroom.github.com/a/WQVJrN88 | September 24, 23:59 |
 | 5    | OOP-I | https://classroom.github.com/a/OxSIldCQ | October 1, 23:59 |
+| 6    | Data Structures-II | https://classroom.github.com/a/B65a3PUj | October 8, 23:59 |
 
 ## 📂 Structure
 - `exercises/` → Exercises with warm-up, seminar, and assignment problems
