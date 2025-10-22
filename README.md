@@ -16,6 +16,7 @@ Instructions for setting up the environment and submitting homework can be found
 | 5    | OOP-I | https://classroom.github.com/a/eu77_j2- | October 7, 15:30 |
 | 6    | Data Structures-II | https://classroom.github.com/a/LWsP1fRQ | October 14, 15:30 |
 | 7    | Scientific Computing with Python-I | https://classroom.github.com/a/pJEtL-Tt | October 21, 15:30 |
+| 8    | Scientific Computing with Python-II | https://classroom.github.com/a/UwPvDcqL | October 28, 15:30 |
 
 ## 📅 Seminars
 | Week | Seminar | Homework | Deadline |
@@ -28,6 +29,7 @@ Instructions for setting up the environment and submitting homework can be found
 | 5    | OOP-I | https://classroom.github.com/a/OxSIldCQ | October 1, 23:59 |
 | 6    | Data Structures-II | https://classroom.github.com/a/B65a3PUj | October 8, 23:59 |
 | 7    | Scientific Computing with Python-I | https://classroom.github.com/a/e33XshXE | October 15, 23:59 |
+| 8    | Scientific Computing with Python-II | https://classroom.github.com/a/DjdjlJt- | ⸺ |
 
 ## 📂 Structure
 - `exercises/` → Exercises with warm-up, seminar, and assignment problems for week 1-5 (other exercises can be found in the README file of each assignment)
