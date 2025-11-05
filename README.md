@@ -18,6 +18,7 @@ Instructions for setting up the environment and submitting homework can be found
 | 7    | Scientific Computing with Python-I | https://classroom.github.com/a/pJEtL-Tt | October 21, 15:30 |
 | 8    | Scientific Computing with Python-II | https://classroom.github.com/a/UwPvDcqL | October 28, 15:30 |
 | 9    | Visualization in Python | https://classroom.github.com/a/x6H_m4qC | November 4, 15:30 |
+| 10   | Python File I/O | https://classroom.github.com/a/9m9YXtXO | November 11, 15:30 |
 
 ## 📅 Seminars
 | Week | Seminar | Homework | Deadline |
@@ -32,6 +33,7 @@ Instructions for setting up the environment and submitting homework can be found
 | 7    | Scientific Computing with Python-I | https://classroom.github.com/a/e33XshXE | October 15, 23:59 |
 | 8    | Scientific Computing with Python-II | https://classroom.github.com/a/DjdjlJt- | ⸺ |
 | 9    | Visualization in Python | https://classroom.github.com/a/Se5ae0hw | ⸺ |
+| 10   | Python File I/O | https://classroom.github.com/a/9WH0A9-3 | November 5, 23:59 |
 
 ## 📂 Structure
 - `exercises/` → Exercises with warm-up, seminar, and assignment problems for week 1-5 (other exercises can be found in the README file of each assignment)
