@@ -20,6 +20,8 @@ Instructions for setting up the environment and submitting homework can be found
 | 9    | Visualization in Python | https://classroom.github.com/a/x6H_m4qC | November 4, 15:30 |
 | 10   | Python File I/O | https://classroom.github.com/a/9m9YXtXO | November 11, 15:30 |
 | 11   | Strings and Regular Expressions | https://classroom.github.com/a/1lDV73pn | November 18, 15:30 |
+| 12   | Scientific Computing with Python-II (Pandas) | https://classroom.github.com/a/OtVR2yQo | November 25, 15:30 |
+
 
 ## 📅 Seminars
 | Week | Seminar | Homework | Deadline |
@@ -36,6 +38,7 @@ Instructions for setting up the environment and submitting homework can be found
 | 9    | Visualization in Python | https://classroom.github.com/a/Se5ae0hw | ⸺ |
 | 10   | Python File I/O | https://classroom.github.com/a/9WH0A9-3 | November 5, 23:59 |
 | 11   | Strings and Regular Expressions | https://classroom.github.com/a/uX6pnUoi | November 12, 23:59 |
+| 12   | Scientific Computing with Python-II (SciPy) | https://classroom.github.com/a/qpuNFOOA | November 19, 23:59 |
 
 
 ## 📂 Structure
