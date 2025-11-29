@@ -21,7 +21,7 @@ Instructions for setting up the environment and submitting homework can be found
 | 10   | Python File I/O | https://classroom.github.com/a/9m9YXtXO | November 11, 15:30 |
 | 11   | Strings and Regular Expressions | https://classroom.github.com/a/1lDV73pn | November 18, 15:30 |
 | 12   | Scientific Computing with Python-II (Pandas) | https://classroom.github.com/a/OtVR2yQo | November 25, 15:30 |
-| 13   | Multiprocessing in Python | TBA | December 2, 15:30 |
+| 13   | Multiprocessing in Python | https://classroom.github.com/a/Ze1g5oEM | December 4, 11:59 |
 
 
 ## 📅 Seminars
